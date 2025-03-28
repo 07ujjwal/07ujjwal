@@ -52,3 +52,14 @@
 <img src="https://raw.githubusercontent.com/07ujjwal/07ujjwal/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<!-- GitHub Achievements Section -->
+<div align="center">
+  <h2>GitHub Achievements</h2>
+
+  <!-- GitHub Achievements Badge -->
+  <img src="https://github-readme-achievements.vercel.app/api?username=07ujjwal&theme=dracula&hide_border=true" alt="GitHub achievements" />
+</div>
+
+### 
+
