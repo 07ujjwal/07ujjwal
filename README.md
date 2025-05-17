@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ujjwal Kumar Singh, and I'm a MERN Stack Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Ujjwal Kumar Singh, and I'm a Software Stack Developer, from India</h2>
 
 ###
 
